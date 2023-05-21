@@ -18,7 +18,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="start">
-&nbsp; <a href="https://www.linkedin.com/in/amiel-refaeli-092aa31b8/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="75" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/amiel-refaeli/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="75" /></a>
 &nbsp; <a href="mailto:amieli1999@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="75" /></a>
 </p>
 

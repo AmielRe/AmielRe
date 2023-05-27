@@ -1,6 +1,6 @@
-![Header](https://github.com/AmielRe/AmielRe/blob/master/program.gif)
+![Header](https://github.com/AmielRe/AmielRe/blob/main/program.gif)
 
-<h2> Hey there! I'm Amiel Refaeli <img src="https://github.com/AmielRe/AmielRe/blob/master/hi.gif" width="25"></h2>
+<h2> Hey there! I'm Amiel Refaeli <img src="https://github.com/AmielRe/AmielRe/blob/main/hi.gif" width="25"></h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 

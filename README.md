@@ -4,16 +4,16 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🧑‍💻 &nbsp; Experienced backend software developer.
+- 🧑‍💻 &nbsp; Experienced backend software engineer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💭 &nbsp; Passionate about software architecture and design.
-- 🎓 &nbsp; Studying Computer Science.
+- 💻 &nbsp; Currently working as a Senior Software Engineer.
 - 👯 &nbsp; Love working with people.
 - 🏅 &nbsp; Working out is a huge hobby for me.
 
 <h3>🛠 Tech Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,docker,git,hibernate,spring,py,rabbitmq,openshift,vscode,postgres,css,html,js,nodejs,react,jenkins,androidstudio,mongodb,firebase&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,docker,git,hibernate,spring,py,rabbitmq,openshift,vscode,postgres,css,html,js,nodejs,react,jenkins,androidstudio,mongodb,firebase,graphql,grafana&perline=11)](https://skillicons.dev)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
